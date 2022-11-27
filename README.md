@@ -6,5 +6,5 @@ fullstack. By the way, I saw Backend in 3 months of English videos even though I
 studying and while studying I introduced one real practice i.e. Taxi app to my district. I have not had much success but I am thirsty to learn. Also, many of my projects 
 have not seen the public face. </i> </h3>
 
-<img src="https://telegra.ph/file/b389a5d8f65ce447b9e5f.png"  width="50%" height="50%" />
-<img src="https://telegra.ph/file/b389a5d8f65ce447b9e5f.png"  width="50%" height="50%" />
+<img src="https://telegra.ph/file/b389a5d8f65ce447b9e5f.png"  width="48%" height="50%" />
+<img src="https://telegra.ph/file/b389a5d8f65ce447b9e5f.png"  width="48%" height="50%" />

@@ -8,7 +8,13 @@ have not seen the public face. </i> </h3>
 
 <div style="display:flex">
 <a href="https://t.me/orqa_fonni_kesuvchi_bot"> <img src="https://telegra.ph/file/b389a5d8f65ce447b9e5f.png"  width="48%" height="50%" /> </a>
-<a href="https://t.me/orqa_fonni_kesuvchi_bot"> <img src="https://telegra.ph/file/b389a5d8f65ce447b9e5f.png"  width="48%" height="50%" /> </a>
+<a href="https://t.me/pubg_nick_logo_bot"> <img src="https://telegra.ph/file/2896e0d5b44b17e0336c1.png"  width="48%" height="50%" /> </a>
+<a href="https://t.me/text_to_font_bot"> <img src="https://telegra.ph/file/8bf15abc39a526de99ba8.png"  width="48%" height="50%" /> </a>
+<a href="https://t.me/mockup_design_bot"> <img src="https://telegra.ph/file/955587a7d4ecdf55425a4.png"  width="48%" height="50%" /> </a>
+<a href="https://t.me/karaoke_maker_bot"> <img src="https://telegra.ph/file/17891e5eabfa2a69e5480.png"  width="48%" height="50%" /> </a>
+<a href="https://t.me/jilvador_bot"> <img src="https://telegra.ph/file/8e754147793a0738c60e8.png"  width="48%" height="50%" /> </a>
+<a href="https://t.me/math_solver_robot"> <img src="https://telegra.ph/file/3e1deae86690d73f6935a.png"  width="48%" height="50%" /> </a>
 </div>
 
 
+![image](https://user-images.githubusercontent.com/84655445/204154076-9a49737e-8478-48ce-bb5f-1b2afa7bbf0f.png)

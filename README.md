@@ -6,7 +6,9 @@ fullstack. By the way, I saw Backend in 3 months of English videos even though I
 studying and while studying I introduced one real practice i.e. Taxi app to my district. I have not had much success but I am thirsty to learn. Also, many of my projects 
 have not seen the public face. </i> </h3>
 <br>
-<h1>Mostly I interested in making Telegram Bots. My real bots in below</h1> <span>Clik for use it.</span>
+<h1>Mostly I interested in making Telegram Bots. My real bots in below</h1> 
+<br>
+<i>Clik for use it.</i>
 <br>
 <div style="display:flex">
 <a href="https://t.me/orqa_fonni_kesuvchi_bot"> <img src="https://telegra.ph/file/b389a5d8f65ce447b9e5f.png"  width="48%" height="50%" /> </a>

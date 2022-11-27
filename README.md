@@ -7,7 +7,6 @@ studying and while studying I introduced one real practice i.e. Taxi app to my d
 have not seen the public face. </i> </h3>
 <br>
 <h1>Mostly I interested in making Telegram Bots. My real bots in below</h1> 
-<br>
 <i>Clik for use it.</i>
 <br>
 <div style="display:flex">

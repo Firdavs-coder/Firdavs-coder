@@ -7,8 +7,8 @@ studying and while studying I introduced one real practice i.e. Taxi app to my d
 have not seen the public face. </i> </h3>
 
 <div style="display:flex">
-<img src="https://telegra.ph/file/b389a5d8f65ce447b9e5f.png"  width="48%" height="50%" />
-<img src="https://telegra.ph/file/b389a5d8f65ce447b9e5f.png"  width="48%" height="50%" />
+<a href="https://t.me/orqa_fonni_kesuvchi_bot"> <img src="https://telegra.ph/file/b389a5d8f65ce447b9e5f.png"  width="48%" height="50%" /> </a>
+<a href="https://t.me/orqa_fonni_kesuvchi_bot"> <img src="https://telegra.ph/file/b389a5d8f65ce447b9e5f.png"  width="48%" height="50%" /> </a>
 </div>
 
 

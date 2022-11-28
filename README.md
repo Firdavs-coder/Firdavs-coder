@@ -13,7 +13,7 @@ have not seen the public face. </i> </h3>
 # text in gray
 @@ text in purple (and bold)@@
 ```
-![image](https://user-images.githubusercontent.com/84655445/204247707-27a6b372-b5f4-4d62-b9fa-9f53d7a32596.png)
+<img src="https://user-images.githubusercontent.com/84655445/204248179-8bf4a7f9-44a8-4ec0-9628-c7cd5279fe06.png">
 
 <br>
 <h1>Mostly I interested in making Telegram Bots. My real bots in below</h1> 

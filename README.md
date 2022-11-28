@@ -5,10 +5,20 @@ to learn Python because the demand for this language was growing. After learning
 fullstack. By the way, I saw Backend in 3 months of English videos even though I don’t speak English. I started mobile programming in Dart language and I am still 
 studying and while studying I introduced one real practice i.e. Taxi app to my district. I have not had much success but I am thirsty to learn. Also, many of my projects 
 have not seen the public face. </i> </h3>
+
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
+
 <br>
 <h1>Mostly I interested in making Telegram Bots. My real bots in below</h1> 
 <i>Clik for use it.</i>
 <br>
+
 <div style="display:flex">
 <a href="https://t.me/orqa_fonni_kesuvchi_bot"> <img src="https://telegra.ph/file/b389a5d8f65ce447b9e5f.png"  width="48%" height="50%" /> </a>
 <a href="https://t.me/pubg_nick_logo_bot"> <img src="https://telegra.ph/file/2896e0d5b44b17e0336c1.png"  width="48%" height="50%" /> </a>

@@ -6,8 +6,8 @@ fullstack. By the way, I saw Backend in 3 months of English videos even though I
 studying and while studying I introduced one real practice i.e. Taxi app to my district. I have not had much success but I am thirsty to learn. Also, many of my projects 
 have not seen the public face. </i> </h3>
 
-<img src="https://user-images.githubusercontent.com/84655445/204248179-8bf4a7f9-44a8-4ec0-9628-c7cd5279fe06.png">
-![image](https://user-images.githubusercontent.com/84655445/204248391-3020e784-31d4-4230-9444-75c7386d1c1a.png)
+<img src="https://user-images.githubusercontent.com/84655445/204248391-3020e784-31d4-4230-9444-75c7386d1c1a.png">
+
 
 <br>
 <h1>Mostly I interested in making Telegram Bots. My real bots in below</h1> 

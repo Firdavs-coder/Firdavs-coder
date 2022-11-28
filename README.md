@@ -1,5 +1,5 @@
 
-<h3 style="color: yellow"><i> Hi, My name is Firdavs, I am 17 years old and have been involved in programming for 2 years i.e. I decided to do a self study because there is no IT center in my 
+<h3 style="color: yellow!important;"><i> Hi, My name is Firdavs, I am 17 years old and have been involved in programming for 2 years i.e. I decided to do a self study because there is no IT center in my 
 district. I stumbled a lot on this but didn’t give up. First of all I learned html, css and js, which of course everyone should learn. After much hesitation, I decided 
 to learn Python because the demand for this language was growing. After learning the backend part, I became interested in mobile programming i.e. I wanted to be a 
 fullstack. By the way, I saw Backend in 3 months of English videos even though I don’t speak English. I started mobile programming in Dart language and I am still 

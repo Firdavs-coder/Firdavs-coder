@@ -107,6 +107,21 @@ have not seen the public face. </i> </h3>
     <td><a href="https://github.com/Firdavs-coder/MagicEraser">Public</a></td>
   </tr>
  
+<!-- UZAI  -->
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/84655445/211324753-75771e7f-467c-4198-a33a-942aada88fbc.png"></td>
+    <td>
+     This project includes several websites that related to the AI. For now the websites are in Uzbek. 
+     <ul>
+      <li><a href="https://background.uzai.ml/">background.uzai.ml</a></li>
+      <li><a href="https://colorizer.uzai.ml/">colorizer.uzai.ml</a></li>
+      <li><a href="https://object.uzai.ml/">object.uzai.ml</a></li>
+     </ul>
+   </td>
+    <td style="text-align: center;"><img src="https://skillicons.dev/icons?i=html,css&theme=light"> <br/> <img src="https://skillicons.dev/icons?i=js&theme=light"></td>
+    <td>Private</td>
+  </tr>
+ 
 
 </table>
 

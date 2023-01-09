@@ -75,6 +75,14 @@ have not seen the public face. </i> </h3>
     <td>Private</td>
   </tr>
  
+<!-- JILVADOR BOT  -->
+  <tr>
+    <td><img src="https://telegra.ph/file/8e754147793a0738c60e8.png"></td>
+    <td>1500+ fun photo frames & effects online for free. Make face photo montages, custom greeting cards, add vintage filters, turn photos into sketches and drawings. <a href="https://t.me/jilvador_bot">Link for the bot</a></td>
+    <td style="text-align: center;"><img src="https://skillicons.dev/icons?i=python&theme=light"></td>
+    <td>Private</td>
+  </tr>
+ 
 </table>
 
 

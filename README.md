@@ -39,8 +39,10 @@ have not seen the public face. </i> </h3>
   </tr>
   <tr>
     <td><img src="https://telegra.ph/file/b389a5d8f65ce447b9e5f.png"></td>
-    <td>Maria Anders</td>
-    <td>Germany</td>
+    <td>Hi, My name is Firdavs, I am 17 years old and have been involved in programming for 2 years i.e. I decided to do a self study because there is no IT center in my 
+district. I stumbled a lot on this but didn’t give up. First of all I learned html, css and js, which of course everyone should learn. After much hesitation, I decided 
+to learn Python because the demand for this language was growing. </td>
+    <td><code>Python</code></td>
     <td>Private</td>
   </tr>
 </table>

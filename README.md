@@ -12,9 +12,7 @@ have not seen the public face. </i> </h3>
 
 
 <!-- <div style="display:flex">
-<a href="https://t.me/math_solver_robot"> <img src="https://telegra.ph/file/3e1deae86690d73f6935a.png"  width="48%" height="50%" /> </a>
-<a href="https://t.me/watermarkremover_robot"> <img src="https://user-images.githubusercontent.com/84655445/205696433-f5d6c732-74b4-4802-be4d-e6cab1240742.png"  width="48%" height="50%" /> </a>
- <a href="https://t.me/pro_photolab_bot"> <img src="https://user-images.githubusercontent.com/84655445/209442225-1457a413-ad41-4d5a-b773-2ff942c91e7a.png"  width="48%" height="50%" /> </a>
+ <a href="https://t.me/pro_photolab_bot"> <img src=""  width="48%" height="50%" /> </a>
 
 </div> -->
 
@@ -79,8 +77,24 @@ have not seen the public face. </i> </h3>
  
 <!-- MATH BOT  -->
   <tr>
-    <td><img src="https://telegra.ph/file/8e754147793a0738c60e8.png"></td>
+    <td><img src="https://telegra.ph/file/3e1deae86690d73f6935a.png"></td>
     <td>This project do equation search and  math solver - solves algebra, trigonometry and calculus problems step by step. Using the project demo visit the telegram bot and choose necessary menu and type math example. <a href="https://t.me/math_solver_robot">Link for the bot</a></td>
+    <td style="text-align: center;"><img src="https://skillicons.dev/icons?i=python&theme=light"></td>
+    <td>Private</td>
+  </tr>
+ 
+<!-- WATERMARK BOT  -->
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/84655445/205696433-f5d6c732-74b4-4802-be4d-e6cab1240742.png"></td>
+    <td>Remove watermarks from your images using our AI technology. Use our watermark-remover bot and get your  images without watermark free. To use it visit the telegram bot and send just watermarked image and get the result. <a href="https://t.me/watermarkremover_robot">Link for the bot</a></td>
+    <td style="text-align: center;"><img src="https://skillicons.dev/icons?i=python&theme=light"></td>
+    <td>Private</td>
+  </tr>
+ 
+<!-- PRO PHOTOLAB BOT  -->
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/84655445/209442225-1457a413-ad41-4d5a-b773-2ff942c91e7a.png"></td>
+    <td>Doing the scraping in python can be easy but deploying on production is not easy. The best magic project of mine is making effect on images like photolab.me. This bot scrape and send the use in pytho simultaneously. Interestingly it generates without watermark. <a href="https://t.me/pro_photolab_bot">Link for the bot</a></td>
     <td style="text-align: center;"><img src="https://skillicons.dev/icons?i=python&theme=light"></td>
     <td>Private</td>
   </tr>

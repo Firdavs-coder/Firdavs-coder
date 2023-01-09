@@ -118,7 +118,7 @@ have not seen the public face. </i> </h3>
       <li><a href="https://object.uzai.ml/">object.uzai.ml</a></li>
      </ul>
    </td>
-    <td style="text-align: center;"><img src="https://skillicons.dev/icons?i=html,css&theme=light"> <br/> <img src="https://skillicons.dev/icons?i=js&theme=light"></td>
+    <td style="text-align: center;"><img src="https://skillicons.dev/icons?i=html,css&theme=light"> <br/> <img src="https://skillicons.dev/icons?i=js,netlify&theme=light"></td>
     <td>Private</td>
   </tr>
  

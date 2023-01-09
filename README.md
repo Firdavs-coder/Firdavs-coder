@@ -67,6 +67,14 @@ have not seen the public face. </i> </h3>
     <td>Private</td>
   </tr>
  
+<!-- MOCKUP BOT  -->
+  <tr>
+    <td><img src="https://telegra.ph/file/17891e5eabfa2a69e5480.png"></td>
+    <td>Split music into separated vocals and instrumental track. Perfect for making karaoke backing tracks or accapella extractor. Artificial intelligence algorithms are used. It's free. <a href="https://t.me/karaoke_maker_bot">Link for the bot</a></td>
+    <td style="text-align: center;"><img src="https://skillicons.dev/icons?i=python&theme=light"></td>
+    <td>Private</td>
+  </tr>
+ 
 </table>
 
 

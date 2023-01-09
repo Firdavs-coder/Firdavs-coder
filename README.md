@@ -54,7 +54,7 @@ have not seen the public face. </i> </h3>
 <!-- TEXT TO FONT  -->
   <tr>
     <td><img src="https://telegra.ph/file/8bf15abc39a526de99ba8.png"></td>
-    <td>This project generates text to different styled images. It provides more than 600 styles. <a href="https://t.me/text_to_font_bot">Link for the bot</a></td>
+    <td>FlamingText is free online logo generator that anyone can use to create a great logo in minutes! Just select one of our logo designs, and get started now! It provides more than 600 styles. <a href="https://t.me/text_to_font_bot">Link for the bot</a></td>
     <td style="text-align: center;"><img src="https://skillicons.dev/icons?i=python&theme=light"></td>
     <td>Private</td>
   </tr>
@@ -62,7 +62,7 @@ have not seen the public face. </i> </h3>
 <!-- MOCKUP BOT  -->
   <tr>
     <td><img src="https://telegra.ph/file/955587a7d4ecdf55425a4.png"></td>
-    <td>The function of this this project is that generating user image on the screen of the variety devices such as phones, laptops, tablets and smart watches. It provides more than 50 devices. <a href="https://t.me/mockup_design_bot">Link for the bot</a></td>
+    <td>MockUPhone is a free tool that helps you wrap app screenshots in different mobile devices. Support iPhone mockup, iPad mockup, Android mockup and TV mockup. It provides more than 50 devices. <a href="https://t.me/mockup_design_bot">Link for the bot</a></td>
     <td style="text-align: center;"><img src="https://skillicons.dev/icons?i=python&theme=light"></td>
     <td>Private</td>
   </tr>

@@ -42,7 +42,7 @@ have not seen the public face. </i> </h3>
   <tr>
     <td><img src="https://telegra.ph/file/b389a5d8f65ce447b9e5f.png"></td>
     <td>This project is one of the my favourite projects. It is telegram bot that removes background image automatically. It has 2 modes for removing: first one has less quality and the second one is generate via API that means it removes with hight quality. Except from that you can invite friends and also you can draw line on the transparent images. For now it is only in Uzbek language. <a href="https://t.me/orqa_fonni_kesuvchi_bot">Link for the bot</a></td>
-    <td><code>Python</code></td>
+    <td><img src="https://skillicons.dev/icons?i=python&theme=light"></td>
     <td>Private</td>
   </tr>
  
@@ -50,8 +50,10 @@ have not seen the public face. </i> </h3>
   <tr>
     <td><img src="https://telegra.ph/file/2896e0d5b44b17e0336c1.png"></td>
     <td>This project makes logo for the basically PUBG images. However, it does simple function. It write your text above the image and generate the new image for both genders boy and girls. <a href="https://t.me/pubg_nick_logo_bot">Link for the bot</a></td>
-    <td><code>Python</code></td>
+    <td><img src="https://skillicons.dev/icons?i=python&theme=light"></td>
     <td>Private</td>
   </tr>
  
 </table>
+
+

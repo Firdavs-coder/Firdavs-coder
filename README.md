@@ -10,11 +10,8 @@ have not seen the public face. </i> </h3>
 <img src="https://user-images.githubusercontent.com/84655445/204248391-3020e784-31d4-4230-9444-75c7386d1c1a.png">
 </div>
 
-<h1>Mostly I interested in making Telegram Bots. My real bots in below</h1> 
-<i>Clik for use it.</i>
-<br>
 
-<div style="display:flex">
+<!-- <div style="display:flex">
 <a href="https://t.me/orqa_fonni_kesuvchi_bot"> <img src="https://telegra.ph/file/b389a5d8f65ce447b9e5f.png"  width="48%" height="50%" /> </a>
 <a href="https://t.me/pubg_nick_logo_bot"> <img src="https://telegra.ph/file/2896e0d5b44b17e0336c1.png"  width="48%" height="50%" /> </a>
 <a href="https://t.me/text_to_font_bot"> <img src="https://telegra.ph/file/8bf15abc39a526de99ba8.png"  width="48%" height="50%" /> </a>
@@ -25,7 +22,7 @@ have not seen the public face. </i> </h3>
 <a href="https://t.me/watermarkremover_robot"> <img src="https://user-images.githubusercontent.com/84655445/205696433-f5d6c732-74b4-4802-be4d-e6cab1240742.png"  width="48%" height="50%" /> </a>
  <a href="https://t.me/pro_photolab_bot"> <img src="https://user-images.githubusercontent.com/84655445/209442225-1457a413-ad41-4d5a-b773-2ff942c91e7a.png"  width="48%" height="50%" /> </a>
 
-</div>
+</div> -->
 
 <!-- PROJECTS SECTION -->
 <table style="width: 100%;">
@@ -42,7 +39,7 @@ have not seen the public face. </i> </h3>
   <tr>
     <td><img src="https://telegra.ph/file/b389a5d8f65ce447b9e5f.png"></td>
     <td>This project is one of the my favourite projects. It is telegram bot that removes background image automatically. It has 2 modes for removing: first one has less quality and the second one is generate via API that means it removes with hight quality. Except from that you can invite friends and also you can draw line on the transparent images. For now it is only in Uzbek language. <a href="https://t.me/orqa_fonni_kesuvchi_bot">Link for the bot</a></td>
-    <td><img src="https://skillicons.dev/icons?i=python&theme=light"></td>
+    <td style="text-align: center;"><img src="https://skillicons.dev/icons?i=python&theme=light"></td>
     <td>Private</td>
   </tr>
  
@@ -50,7 +47,23 @@ have not seen the public face. </i> </h3>
   <tr>
     <td><img src="https://telegra.ph/file/2896e0d5b44b17e0336c1.png"></td>
     <td>This project makes logo for the basically PUBG images. However, it does simple function. It write your text above the image and generate the new image for both genders boy and girls. <a href="https://t.me/pubg_nick_logo_bot">Link for the bot</a></td>
-    <td style="text-align: center"><img src="https://skillicons.dev/icons?i=python&theme=light"></td>
+    <td style="text-align: center;"><img src="https://skillicons.dev/icons?i=python&theme=light"></td>
+    <td>Private</td>
+  </tr>
+ 
+<!-- TEXT TO FONT  -->
+  <tr>
+    <td><img src="https://telegra.ph/file/8bf15abc39a526de99ba8.png"></td>
+    <td>This project generates text to different styled images. It provides more than 600 styles. <a href="https://t.me/text_to_font_bot">Link for the bot</a></td>
+    <td style="text-align: center;"><img src="https://skillicons.dev/icons?i=python&theme=light"></td>
+    <td>Private</td>
+  </tr>
+ 
+<!-- MOCKUP BOT  -->
+  <tr>
+    <td><img src="https://telegra.ph/file/955587a7d4ecdf55425a4.png"></td>
+    <td>The function of this this project is that generating user image on the screen of the variety devices such as phones, laptops, tablets and smart watches. It provides more than 50 devices. <a href="https://t.me/mockup_design_bot">Link for the bot</a></td>
+    <td style="text-align: center;"><img src="https://skillicons.dev/icons?i=python&theme=light"></td>
     <td>Private</td>
   </tr>
  

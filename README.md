@@ -103,7 +103,7 @@ have not seen the public face. </i> </h3>
   <tr>
     <td><img src="https://user-images.githubusercontent.com/84655445/211323269-3a41d22c-0ec2-4800-9e52-b2a6ebf8c54a.png"></td>
     <td>MagicEraser - Telegram Bot for removing objects from pictures. But, this bot was not created by me. It is forked from Molodeck. AI part of the prohect is made in python but bot is in typescript. </td>
-    <td style="text-align: center;"><img src="https://skillicons.dev/icons?i=python, typescript&theme=light"></td>
+    <td style="text-align: center;"><img src="https://skillicons.dev/icons?i=python,typescript&theme=light"></td>
     <td><a href="https://github.com/Firdavs-coder/MagicEraser">Public</a></td>
   </tr>
  

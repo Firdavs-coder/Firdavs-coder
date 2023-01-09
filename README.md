@@ -26,3 +26,22 @@ have not seen the public face. </i> </h3>
  <a href="https://t.me/pro_photolab_bot"> <img src="https://user-images.githubusercontent.com/84655445/209442225-1457a413-ad41-4d5a-b773-2ff942c91e7a.png"  width="48%" height="50%" /> </a>
 
 </div>
+
+<!-- PROJECTS SECTION -->
+<div style="width: 100%"> 
+<table style="width: 100%;">
+  <!-- HEADER   -->
+  <tr>
+    <th>Image</th>
+    <th>Description</th>
+    <th>Languages</th>
+    <th>Type</th>
+  </tr>
+  <tr>
+    <td><img src="https://telegra.ph/file/b389a5d8f65ce447b9e5f.png"></td>
+    <td>Maria Anders</td>
+    <td>Germany</td>
+    <td>Private</td>
+  </tr>
+</table>
+</div>

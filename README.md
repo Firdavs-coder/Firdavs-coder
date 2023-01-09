@@ -122,6 +122,15 @@ have not seen the public face. </i> </h3>
     <td>Private</td>
   </tr>
  
+ 
+<!-- SCRIPT PARSER  -->
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/84655445/211332509-b8ca7877-0223-4e78-bb3b-ed7cb0b0a294.png"></td>
+    <td>This project scrape programming codes such as python(django, flask etc) and dart(flutter, state managements, etc). The main function of the project is that it choose necessary project automatically and get it from github. Enterestingly, it doesn't get all repository only popular and full completed.</td>
+    <td style="text-align: center;"><img src="https://skillicons.dev/icons?i=python&theme=light"></td>
+    <td>Private</td>
+  </tr>
+
 
 </table>
 

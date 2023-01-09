@@ -130,6 +130,14 @@ have not seen the public face. </i> </h3>
     <td style="text-align: center;"><img src="https://skillicons.dev/icons?i=python&theme=light"></td>
     <td>Private</td>
   </tr>
+ 
+<!-- SCRIPT PARSER  -->
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/84655445/211335123-b04ef2b3-eb94-4a85-9ccb-8bd4c0d16bca.png"></td>
+    <td>This project scrape some math website  such as https://www.cymath.com/ | https://www.wolframalpha.com/ | https://www.symbolab.com/. It used selenium and take a screenshot. </td>
+    <td style="text-align: center;"><img src="https://skillicons.dev/icons?i=python&theme=light"></td>
+    <td><a href="https://github.com/Firdavs-coder/Math-Parser">Public</a></td>
+  </tr>
 
 
 </table>

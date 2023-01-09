@@ -12,12 +12,6 @@ have not seen the public face. </i> </h3>
 
 
 <!-- <div style="display:flex">
-<a href="https://t.me/orqa_fonni_kesuvchi_bot"> <img src="https://telegra.ph/file/b389a5d8f65ce447b9e5f.png"  width="48%" height="50%" /> </a>
-<a href="https://t.me/pubg_nick_logo_bot"> <img src="https://telegra.ph/file/2896e0d5b44b17e0336c1.png"  width="48%" height="50%" /> </a>
-<a href="https://t.me/text_to_font_bot"> <img src="https://telegra.ph/file/8bf15abc39a526de99ba8.png"  width="48%" height="50%" /> </a>
-<a href="https://t.me/mockup_design_bot"> <img src="https://telegra.ph/file/955587a7d4ecdf55425a4.png"  width="48%" height="50%" /> </a>
-<a href="https://t.me/karaoke_maker_bot"> <img src="https://telegra.ph/file/17891e5eabfa2a69e5480.png"  width="48%" height="50%" /> </a>
-<a href="https://t.me/jilvador_bot"> <img src="https://telegra.ph/file/8e754147793a0738c60e8.png"  width="48%" height="50%" /> </a>
 <a href="https://t.me/math_solver_robot"> <img src="https://telegra.ph/file/3e1deae86690d73f6935a.png"  width="48%" height="50%" /> </a>
 <a href="https://t.me/watermarkremover_robot"> <img src="https://user-images.githubusercontent.com/84655445/205696433-f5d6c732-74b4-4802-be4d-e6cab1240742.png"  width="48%" height="50%" /> </a>
  <a href="https://t.me/pro_photolab_bot"> <img src="https://user-images.githubusercontent.com/84655445/209442225-1457a413-ad41-4d5a-b773-2ff942c91e7a.png"  width="48%" height="50%" /> </a>
@@ -79,6 +73,14 @@ have not seen the public face. </i> </h3>
   <tr>
     <td><img src="https://telegra.ph/file/8e754147793a0738c60e8.png"></td>
     <td>1500+ fun photo frames & effects online for free. Make face photo montages, custom greeting cards, add vintage filters, turn photos into sketches and drawings. <a href="https://t.me/jilvador_bot">Link for the bot</a></td>
+    <td style="text-align: center;"><img src="https://skillicons.dev/icons?i=python&theme=light"></td>
+    <td>Private</td>
+  </tr>
+ 
+<!-- MATH BOT  -->
+  <tr>
+    <td><img src="https://telegra.ph/file/8e754147793a0738c60e8.png"></td>
+    <td>This project do equation search and  math solver - solves algebra, trigonometry and calculus problems step by step. Using the project demo visit the telegram bot and choose necessary menu and type math example. <a href="https://t.me/math_solver_robot">Link for the bot</a></td>
     <td style="text-align: center;"><img src="https://skillicons.dev/icons?i=python&theme=light"></td>
     <td>Private</td>
   </tr>

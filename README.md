@@ -11,6 +11,7 @@ have not seen the public face. </i> </h3>
 </div>
 
 
+<video width="400" src="https://www.w3schools.com/html/mov_bbb.mp4" controls></video>
 
 <!-- PROJECTS SECTION -->
 <details>

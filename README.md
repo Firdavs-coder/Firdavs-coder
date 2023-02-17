@@ -141,7 +141,8 @@ have not seen the public face. </i> </h3>
 
 
 </table>
-
+<br>
+<!-- MY APIS -->
 <details>
   <summary>ALL MY APIS</summary>
   <table style="width: 100%;">
@@ -155,10 +156,9 @@ have not seen the public face. </i> </h3>
  
 <!-- Remove Bg  -->
   <tr>
-    <td><img src="https://telegra.ph/file/b389a5d8f65ce447b9e5f.png"></td>
+    <td><img src="https://rapidapi.com/cdn/images?url=https://rapidapi-prod-apis.s3.amazonaws.com/339b9a27-7e6f-4e5a-b735-18e880eb6e98.png"></td>
     <td>This project is one of the my favourite projects. It is telegram bot that removes background image automatically. It has 2 modes for removing: first one has less quality and the second one is generate via API that means it removes with hight quality. Except from that you can invite friends and also you can draw line on the transparent images. For now it is only in Uzbek language. <a href="https://t.me/orqa_fonni_kesuvchi_bot">Link for the bot</a></td>
-    <td style="text-align: center;"><img src="https://rapidapi.com/static-assets/default/dark-logo-78e48dc1-ca3f-4d67-a6f5-74032f439c8b.svg"></td>
-    <td>Private</td>
+    <td style="text-align: center;"><a href="https://rapidapi.com/firdavscoder1/api/photolab-me"><img src="https://rapidapi.com/static-assets/default/dark-logo-78e48dc1-ca3f-4d67-a6f5-74032f439c8b.svg"></a></td>
   </tr>
  
 </table>

@@ -145,6 +145,7 @@ have not seen the public face. </i> </h3>
 <!-- MY APIS -->
 <details>
   <summary>ALL MY APIS</summary>
+ <br>
   <table style="width: 100%;">
  
   <!-- HEADER   -->
@@ -154,11 +155,82 @@ have not seen the public face. </i> </h3>
     <th>Link</th>
   </tr>
  
-<!-- Remove Bg  -->
+<!-- Photolab.me API  -->
   <tr>
     <td><img src="https://rapidapi.com/cdn/images?url=https://rapidapi-prod-apis.s3.amazonaws.com/339b9a27-7e6f-4e5a-b735-18e880eb6e98.png"></td>
-    <td>This project is one of the my favourite projects. It is telegram bot that removes background image automatically. It has 2 modes for removing: first one has less quality and the second one is generate via API that means it removes with hight quality. Except from that you can invite friends and also you can draw line on the transparent images. For now it is only in Uzbek language. <a href="https://t.me/orqa_fonni_kesuvchi_bot">Link for the bot</a></td>
+    <td>Unofficial API of photolab.me. Without watermark. Photo Lab boasts one of the vastest collections of stylish and funny photo effects: more than 900 picture art ideas! Fantastic face photo montage maker, photo frames, animated effects, and photo filters are here for you to enjoy.</td>
     <td style="text-align: center;"><a href="https://rapidapi.com/firdavscoder1/api/photolab-me"><img src="https://rapidapi.com/static-assets/default/dark-logo-78e48dc1-ca3f-4d67-a6f5-74032f439c8b.svg"></a></td>
+  </tr>
+   
+<!-- Toonme.com API  -->
+  <tr>
+    <td><img src="https://rapidapi.com/cdn/images?url=https://rapidapi-prod-apis.s3.amazonaws.com/66721659-a203-4d1d-8516-2bccf32bd05e.png"></td>
+    <td>ToonMe is the coolest app to create and edit pictures for your social networks. Making an awesome profile pic has never been any easier - all you have to do is just take a photo, choose from hundreds of art filters, and let the portrait AI do all the work for you!</td>
+    <td style="text-align: center;"><a href="https://rapidapi.com/firdavscoder1/api/toonme-api"><img src="https://rapidapi.com/static-assets/default/dark-logo-78e48dc1-ca3f-4d67-a6f5-74032f439c8b.svg"></a></td>
+  </tr>
+   
+<!-- OCR API  -->
+  <tr>
+    <td><img src="https://rapidapi.com/cdn/images?url=https://rapidapi-prod-apis.s3.amazonaws.com/e4ec0a4d-5853-4319-9428-054bb1f2320c.png"></td>
+    <td>Optical character recognition or optical character reader (OCR) is the electronic or mechanical conversion of images of typed, handwritten or printed text into machine-encoded text, whether from a scanned document, a photo of a document, a scene-photo (for example the text on signs and billboards in a landscape photo) or from subtitle text superimposed on an image (for example: from a television broadcast).
+</td>
+    <td style="text-align: center;"><a href="https://rapidapi.com/firdavscoder1/api/ocr-separate-text-from-images"><img src="https://rapidapi.com/static-assets/default/dark-logo-78e48dc1-ca3f-4d67-a6f5-74032f439c8b.svg"></a></td>
+  </tr>
+   
+<!-- colorizer API  -->
+  <tr>
+    <td><img src="https://rapidapi.com/cdn/images?url=https://rapidapi-prod-apis.s3.amazonaws.com/e210a3a1-4bf9-4018-be11-6ea2d21d3678.webp"></td>
+    <td>Colorize pictures with AI, turning black and white photos to color in seconds. Reimagine the past by colorizing pictures of ancestors and historic figures.
+</td>
+    <td style="text-align: center;"><a href="https://rapidapi.com/firdavscoder1/api/ai-picture-colorizer1"><img src="https://rapidapi.com/static-assets/default/dark-logo-78e48dc1-ca3f-4d67-a6f5-74032f439c8b.svg"></a></td>
+  </tr>
+   
+<!-- upscaler API  -->
+  <tr>
+    <td><img src="https://rapidapi.com/cdn/images?url=https://rapidapi-prod-apis.s3.amazonaws.com/4ed468d4-3780-43d6-92d1-43ca6dbe77fd.png"></td>
+    <td>Online smart upscaler software to enlarge images and photos (JPG, PNG) without losing quality. Enlarge and enhance pictures automatically using AI.
+</td>
+    <td style="text-align: center;"><a href="https://rapidapi.com/firdavscoder1/api/ai-picture-upscaler"><img src="https://rapidapi.com/static-assets/default/dark-logo-78e48dc1-ca3f-4d67-a6f5-74032f439c8b.svg"></a></td>
+  </tr>
+   
+<!-- object remover API  -->
+  <tr>
+    <td><img src="https://rapidapi.com/cdn/images?url=https://rapidapi-prod-apis.s3.amazonaws.com/758ced85-c128-406a-883c-f5b817c8d13b.png"></td>
+    <td>Remove unwanted objects from photos, people, text, and defects from any picture for free. It’s extremely easy in just a few clicks with our creative API.
+</td>
+    <td style="text-align: center;"><a href="https://rapidapi.com/firdavscoder1/api/object-remover"><img src="https://rapidapi.com/static-assets/default/dark-logo-78e48dc1-ca3f-4d67-a6f5-74032f439c8b.svg"></a></td>
+  </tr>
+   
+<!-- background remover API  -->
+  <tr>
+    <td><img src="https://rapidapi.com/cdn/images?url=https://rapidapi-prod-apis.s3.amazonaws.com/0264bf76-da86-4a12-a463-f02f1d45a9c1.png"></td>
+    <td>Remove image backgrounds automatically in 5 seconds with just one click. Don’t spend hours manually picking pixels. Upload your photo now & see the magic.
+</td>
+    <td style="text-align: center;"><a href="https://rapidapi.com/firdavscoder1/api/ai-background-remover"><img src="https://rapidapi.com/static-assets/default/dark-logo-78e48dc1-ca3f-4d67-a6f5-74032f439c8b.svg"></a></td>
+  </tr>
+   
+<!-- enhancer API  -->
+  <tr>
+    <td><img src="https://rapidapi.com/cdn/images?url=https://rapidapi-prod-apis.s3.amazonaws.com/843e090f-55e6-4082-9a17-60d99e50b92e.jpg"></td>
+    <td>Enhancements are used to make it easier for visual interpretation and understanding of imagery. The advantage of digital imagery is that it allows us to manipulate the digital pixel values in an image
+</td>
+    <td style="text-align: center;"><a href="https://rapidapi.com/firdavscoder1/api/ai-image-enhancer"><img src="https://rapidapi.com/static-assets/default/dark-logo-78e48dc1-ca3f-4d67-a6f5-74032f439c8b.svg"></a></td>
+  </tr>
+   
+<!-- pdf API  -->
+  <tr>
+    <td><img src="https://rapidapi.com/cdn/images?url=https://rapidapi-prod-apis.s3.amazonaws.com/e3644f05-ae65-4d89-b1a0-215d8fb12fa0.webp"></td>
+    <td>Try our FREE file converter! Enter web page URL to convert into PDF. Press “Enter” and start the magic! Download the result in seconds!
+</td>
+    <td style="text-align: center;"><a href="https://rapidapi.com/firdavscoder1/api/pdfmyurl-url-to-pdf"><img src="https://rapidapi.com/static-assets/default/dark-logo-78e48dc1-ca3f-4d67-a6f5-74032f439c8b.svg"></a></td>
+  </tr>
+   
+<!-- ielts essay checker API  -->
+  <tr>
+    <td><img src="https://rapidapi.com/cdn/images?url=https://rapidapi-prod-apis.s3.amazonaws.com/73567123-a4cf-4da2-88c6-9b9dfade2571.png"></td>
+    <td>IELTS essay checker is simple, AI-powered assistant that assesses your essay and give a band with a feedback.
+</td>
+    <td style="text-align: center;"><a href="https://rapidapi.com/firdavscoder1/api/ielts-writing-checker"><img src="https://rapidapi.com/static-assets/default/dark-logo-78e48dc1-ca3f-4d67-a6f5-74032f439c8b.svg"></a></td>
   </tr>
  
 </table>

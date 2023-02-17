@@ -11,14 +11,10 @@ have not seen the public face. </i> </h3>
 </div>
 
 
-<!-- <div style="display:flex">
- <a href="https://t.me/pro_photolab_bot"> <img src=""  width="48%" height="50%" /> </a>
-
-</div> -->
 
 <!-- PROJECTS SECTION -->
 <details>
-  <summary><h1>ALL MY PROJECTS</h1></summary>
+  <summary><h3>ALL MY PROJECTS</h3></summary>
  <br>
 <table style="width: 100%;">
  
@@ -145,10 +141,10 @@ have not seen the public face. </i> </h3>
 
 </table>
  </details>
-<br>
+ 
 <!-- MY APIS -->
 <details>
-  <summary><h1>ALL MY APIS</h1></summary>
+  <summary><h3>ALL MY APIS</h3></summary>
  <br>
   <table style="width: 100%;">
  

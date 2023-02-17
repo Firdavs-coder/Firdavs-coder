@@ -17,6 +17,9 @@ have not seen the public face. </i> </h3>
 </div> -->
 
 <!-- PROJECTS SECTION -->
+<details>
+  <summary><h1>ALL MY PROJECTS</h1></summary>
+ <br>
 <table style="width: 100%;">
  
   <!-- HEADER   -->
@@ -141,10 +144,11 @@ have not seen the public face. </i> </h3>
 
 
 </table>
+ </details>
 <br>
 <!-- MY APIS -->
 <details>
-  <summary>ALL MY APIS</summary>
+  <summary><h1>ALL MY APIS</h1></summary>
  <br>
   <table style="width: 100%;">
  
@@ -235,5 +239,4 @@ have not seen the public face. </i> </h3>
  
 </table>
  
-</p>
 </details>

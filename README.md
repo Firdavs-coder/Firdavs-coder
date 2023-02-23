@@ -1,10 +1,13 @@
 
-<h3 ><i> Hi, My name is Firdavs, I am 17 years old and have been involved in programming for 2 years i.e. I decided to do a self study because there is no IT center in my 
-district. I stumbled a lot on this but didn’t give up. First of all I learned html, css and js, which of course everyone should learn. After much hesitation, I decided 
-to learn Python because the demand for this language was growing. After learning the backend part, I became interested in mobile programming i.e. I wanted to be a 
-fullstack. By the way, I saw Backend in 3 months of English videos even though I don’t speak English. I started mobile programming in Dart language and I am still 
-studying and while studying I introduced one real practice i.e. Taxi app to my district. I have not had much success but I am thirsty to learn. Also, many of my projects 
-have not seen the public face. </i> </h3>
+<h3 ><i> Hi, my name is Firdavs. I am 17 years old, from Uzbekistan, Central Asia. I know some basic programming languages such as:
+<ul><br>
+  <li>Frontend: html, css, bootstrap, js, jquery but I am not good at web frontend basicly at js.</li>
+  <li>Backend: python, django, django rest framework. It is my primary programming work</li>
+  <li>Flutter: I also create mobile apps for both android and ios in flutter. Flutter is a cross platform which provides many opportunities with main one codebase. </li>
+ <br>
+ I like to web scraping and to get private keys of any websites. Currently, I am learning AI in python starting 1 Aprel 2023.
+</ul>
+ </i></h3>
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/84655445/204248391-3020e784-31d4-4230-9444-75c7386d1c1a.png">

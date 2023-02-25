@@ -129,6 +129,7 @@
       </tr>
    </table>
 </details>
+<hr>
 <!-- MY APIS -->
 <details>
    <summary>
@@ -202,5 +203,31 @@
          <td>IELTS essay checker is simple, AI-powered assistant that assesses your essay and give a band with a feedback.</td>
          <td style="text-align: center;"><a href="https://rapidapi.com/firdavscoder1/api/ielts-writing-checker"><img src="https://rapidapi.com/static-assets/default/dark-logo-78e48dc1-ca3f-4d67-a6f5-74032f439c8b.svg"></a></td>
       </tr>
+   </table>
+</details>
+
+<hr>
+
+<!-- MY SCRAPED WEBSITES -->
+<details>
+   <summary>
+      <h3>ALL SCRAPED WEBSITES</h3>
+   </summary>
+   <br>
+   <table style="width: 100%;">   
+      <img style="width: 100%;" src="https://user-images.githubusercontent.com/84655445/221371882-2631af8f-1e62-4019-ad2a-b4612ce828d7.png">
+      <!-- HEADER   -->
+      <tr>
+         <th>Image</th>
+         <th>Description</th>
+         <th>Link</th>
+      </tr>
+      <!-- Photolab.me API  -->
+      <tr>
+         <td><img src="https://rapidapi.com/cdn/images?url=https://rapidapi-prod-apis.s3.amazonaws.com/339b9a27-7e6f-4e5a-b735-18e880eb6e98.png"></td>
+         <td>Unofficial API of photolab.me. Without watermark. Photo Lab boasts one of the vastest collections of stylish and funny photo effects: more than 900 picture art ideas! Fantastic face photo montage maker, photo frames, animated effects, and photo filters are here for you to enjoy.</td>
+         <td style="text-align: center;"><a href="https://rapidapi.com/firdavscoder1/api/photolab-me"><img src="https://rapidapi.com/static-assets/default/dark-logo-78e48dc1-ca3f-4d67-a6f5-74032f439c8b.svg"></a></td>
+      </tr>
+     
    </table>
 </details>

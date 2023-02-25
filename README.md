@@ -238,9 +238,45 @@
       <!-- api4.ai API  -->
       <tr>
          <td><img src="https://user-images.githubusercontent.com/84655445/221372874-ea6bccf4-0837-4015-8601-acfe86f899b8.png"></td>
-         <td>Online sellers use ClipDrop to shoot their products directly on their phones and quickly update their shops. Creators, photographers, and professional studios use ClipDrop to quickly create stunning visuals. And it can also help you remove any unwanted object, people text, or defects from your photographs.28-noy, 2022
-</td>
+         <td>This Background Removal API is as simple as it goes. It calculates a potential foreground object/area, segments it out and removes every other pixel.
+You can use it in your image processing apps, quickly make collages with it, apply it to social media apps and more.</td>
          <td style="text-align: center;"><a href="https://api4.ai/"><img src="https://user-images.githubusercontent.com/84655445/221372453-f60366e6-6178-49d7-be01-a6e792d129e6.png"></a></td>
+      </tr>
+      <!-- uzmovi.com API  -->
+      <tr>
+         <td><img src="https://user-images.githubusercontent.com/84655445/221373071-67110e0a-93a5-4a2d-89a1-0cfe37dbb08a.png"></td>
+         <td>Tarjima Kinolar O'zbek tilida kinolar yuklab olish onlayn ko'rish - Uzmovi.com</td>
+         <td style="text-align: center;"><a href="http://uzmovi.com/"><img src="https://user-images.githubusercontent.com/84655445/221372453-f60366e6-6178-49d7-be01-a6e792d129e6.png"></a></td>
+      </tr>
+      <!-- photoaid.com API  -->
+      <tr>
+         <td><img src="https://user-images.githubusercontent.com/84655445/221373143-ae55753d-d5d9-46fc-b9d1-effe907f2ded.png"></td>
+         <td>Take a photo with your mobile phone, upload it and after a few seconds, you will receive a professional photo for your passport, ID card or visa.</td>
+         <td style="text-align: center;"><a href="https://photoaid.com/"><img src="https://user-images.githubusercontent.com/84655445/221372453-f60366e6-6178-49d7-be01-a6e792d129e6.png"></a></td>
+      </tr>
+      <!-- zyro.com API  -->
+      <tr>
+         <td><img src="https://user-images.githubusercontent.com/84655445/221373244-b1912fa3-f822-42ac-acad-61bdf2c39b30.png"></td>
+         <td>Remove the background from your photos to just keep the subject. Quickly and easily edit photos to automatically remove backgrounds.</td>
+         <td style="text-align: center;"><a href="https://zyro.com/"><img src="https://user-images.githubusercontent.com/84655445/221372453-f60366e6-6178-49d7-be01-a6e792d129e6.png"></a></td>
+      </tr>
+      <!-- inpixio.com API  -->
+      <tr>
+         <td><img src="https://user-images.githubusercontent.com/84655445/221373285-c1f0cdaf-8856-41fc-a5c9-1e92bd006ad5.png"></td>
+         <td>Removing backgrounds from images has never been easier. With inPixio Remove Background you can get a transparent background in seconds!</td>
+         <td style="text-align: center;"><a href="https://inpixio.com/"><img src="https://user-images.githubusercontent.com/84655445/221372453-f60366e6-6178-49d7-be01-a6e792d129e6.png"></a></td>
+      </tr>
+      <!-- experte.com API  -->
+      <tr>
+         <td><img src="https://user-images.githubusercontent.com/84655445/221373443-1720c62c-4972-45e2-837d-1fdf2ca5ebda.png"></td>
+         <td>With EXPERTE.com Background Remover you can remove the background of an image in just a few seconds - directly in the browser, without registration and for free.</td>
+         <td style="text-align: center;"><a href="https://www.experte.com/background-remover"><img src="https://user-images.githubusercontent.com/84655445/221372453-f60366e6-6178-49d7-be01-a6e792d129e6.png"></a></td>
+      </tr>
+      <!-- pixlr.com API  -->
+      <tr>
+         <td><img src="https://user-images.githubusercontent.com/84655445/221373443-1720c62c-4972-45e2-837d-1fdf2ca5ebda.png"></td>
+         <td>Our state of the art AI-tools let's you remove backgrounds from product photos, eCommerce listings, selfies, profile pictures and others without the cumbersome manual work. Remove the bg on several images at the same time, fine tune the result with our detailed cutout tools.</td>
+         <td style="text-align: center;"><a href="https://pixlr.com/remove-background/"><img src="https://user-images.githubusercontent.com/84655445/221372453-f60366e6-6178-49d7-be01-a6e792d129e6.png"></a></td>
       </tr>
       
 

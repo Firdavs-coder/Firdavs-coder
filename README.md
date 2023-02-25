@@ -233,8 +233,16 @@
          <td><img src="https://user-images.githubusercontent.com/84655445/221372669-3741f0c9-74c7-40f4-a874-a52dd9f7ac12.png"></td>
          <td>Online sellers use ClipDrop to shoot their products directly on their phones and quickly update their shops. Creators, photographers, and professional studios use ClipDrop to quickly create stunning visuals. And it can also help you remove any unwanted object, people text, or defects from your photographs.28-noy, 2022
 </td>
-         <td style="text-align: center;"><a href="https://clipdrop.co/"><img src="https://www.cutout.pro/"><img src="https://user-images.githubusercontent.com/84655445/221372453-f60366e6-6178-49d7-be01-a6e792d129e6.png"></a></td>
+         <td style="text-align: center;"><a href="https://clipdrop.co/"><img src="https://user-images.githubusercontent.com/84655445/221372453-f60366e6-6178-49d7-be01-a6e792d129e6.png"></a></td>
       </tr>
+      <!-- api4.ai API  -->
+      <tr>
+         <td><img src="https://user-images.githubusercontent.com/84655445/221372874-ea6bccf4-0837-4015-8601-acfe86f899b8.png"></td>
+         <td>Online sellers use ClipDrop to shoot their products directly on their phones and quickly update their shops. Creators, photographers, and professional studios use ClipDrop to quickly create stunning visuals. And it can also help you remove any unwanted object, people text, or defects from your photographs.28-noy, 2022
+</td>
+         <td style="text-align: center;"><a href="https://api4.ai/"><img src="https://user-images.githubusercontent.com/84655445/221372453-f60366e6-6178-49d7-be01-a6e792d129e6.png"></a></td>
+      </tr>
+      
 
    </table>
 </details>

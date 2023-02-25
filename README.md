@@ -224,9 +224,16 @@
       </tr>
       <!-- cutout.pro API  -->
       <tr>
-         <td><img src="https://rapidapi.com/cdn/images?url=https://rapidapi-prod-apis.s3.amazonaws.com/339b9a27-7e6f-4e5a-b735-18e880eb6e98.png"></td>
+         <td><img src="https://user-images.githubusercontent.com/84655445/221372518-582b4f45-8581-4def-bb86-bb5618a631cc.png"></td>
          <td>All-in-one visual design platform containing AI photo and video editing tools. Automatic process for background remove, image restoration, graphic design, and content generation. With Cutout.Pro, it is one click away to optimize your content and transform your design ideas into special asset effectively.</td>
          <td style="text-align: center;"><a href="https://www.cutout.pro/"><img src="https://user-images.githubusercontent.com/84655445/221372453-f60366e6-6178-49d7-be01-a6e792d129e6.png"></a></td>
+      </tr>
+      <!-- clipdrop.co API  -->
+      <tr>
+         <td><img src="https://user-images.githubusercontent.com/84655445/221372518-582b4f45-8581-4def-bb86-bb5618a631cc.png"></td>
+         <td>Online sellers use ClipDrop to shoot their products directly on their phones and quickly update their shops. Creators, photographers, and professional studios use ClipDrop to quickly create stunning visuals. And it can also help you remove any unwanted object, people text, or defects from your photographs.28-noy, 2022
+</td>
+         <td style="text-align: center;"><a href="https://clipdrop.co/"><img src="https://user-images.githubusercontent.com/84655445/221372669-3741f0c9-74c7-40f4-a874-a52dd9f7ac12.png"></a></td>
       </tr>
 
    </table>

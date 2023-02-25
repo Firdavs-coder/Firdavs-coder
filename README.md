@@ -222,10 +222,10 @@
          <th>Description</th>
          <th>Link</th>
       </tr>
-      <!-- Photolab.me API  -->
+      <!-- cutout.pro API  -->
       <tr>
          <td><img src="https://rapidapi.com/cdn/images?url=https://rapidapi-prod-apis.s3.amazonaws.com/339b9a27-7e6f-4e5a-b735-18e880eb6e98.png"></td>
-         <td>Unofficial API of photolab.me. Without watermark. Photo Lab boasts one of the vastest collections of stylish and funny photo effects: more than 900 picture art ideas! Fantastic face photo montage maker, photo frames, animated effects, and photo filters are here for you to enjoy.</td>
+         <td>All-in-one visual design platform containing AI photo and video editing tools. Automatic process for background remove, image restoration, graphic design, and content generation. With Cutout.Pro, it is one click away to optimize your content and transform your design ideas into special asset effectively.</td>
          <td style="text-align: center;"><a href="https://rapidapi.com/firdavscoder1/api/photolab-me"><img src="https://rapidapi.com/static-assets/default/dark-logo-78e48dc1-ca3f-4d67-a6f5-74032f439c8b.svg"></a></td>
       </tr>
      

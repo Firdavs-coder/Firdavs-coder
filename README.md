@@ -14,13 +14,10 @@
 <div align="center">
    <img src="https://user-images.githubusercontent.com/84655445/204248391-3020e784-31d4-4230-9444-75c7386d1c1a.png">
 </div>
-<video width="400" src="https://www.w3schools.com/html/mov_bbb.mp4" controls></video>
 <!-- PROJECTS SECTION -->
-<details>
-   <summary>
-      <h3>ALL MY PROJECTS</h3>
-   </summary>
+
    <br>
+   <img style="width: 100%;" src="https://user-images.githubusercontent.com/84655445/221373891-136e6d70-5f38-4d9a-b669-06d782fe1a3a.png">
    <table style="width: 100%;">
       <!-- HEADER   -->
       <tr>
@@ -128,14 +125,10 @@
          <td><a href="https://github.com/Firdavs-coder/Math-Parser">Public</a></td>
       </tr>
    </table>
-</details>
 <hr>
 <!-- MY APIS -->
-<details>
-   <summary>
-      <h3>ALL MY APIS</h3>
-   </summary>
    <br>
+   <img style="width: 100%;" src="https://user-images.githubusercontent.com/84655445/221373956-c1a6780c-6633-42c3-b8a9-fd5a462b608f.png">
    <table style="width: 100%;">
       <!-- HEADER   -->
       <tr>
@@ -204,15 +197,11 @@
          <td style="text-align: center;"><a href="https://rapidapi.com/firdavscoder1/api/ielts-writing-checker"><img src="https://rapidapi.com/static-assets/default/dark-logo-78e48dc1-ca3f-4d67-a6f5-74032f439c8b.svg"></a></td>
       </tr>
    </table>
-</details>
 
 <hr>
 
 <!-- MY SCRAPED WEBSITES -->
-<details>
-   <summary>
-      <h3>ALL SCRAPED WEBSITES</h3>
-   </summary>
+
    <br>
    <table style="width: 100%;">   
       <img style="width: 100%;" src="https://user-images.githubusercontent.com/84655445/221371882-2631af8f-1e62-4019-ad2a-b4612ce828d7.png">
@@ -281,4 +270,3 @@ You can use it in your image processing apps, quickly make collages with it, app
       
 
    </table>
-</details>

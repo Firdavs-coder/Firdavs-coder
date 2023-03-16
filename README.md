@@ -126,6 +126,7 @@
       </tr>
    </table>
 <hr>
+
 <!-- MY APIS -->
    <br>
    <img style="width: 100%;" src="https://user-images.githubusercontent.com/84655445/221373956-c1a6780c-6633-42c3-b8a9-fd5a462b608f.png">
@@ -200,6 +201,8 @@
 
 <hr>
 
+
+<!-- 
 <!-- MY SCRAPED WEBSITES -->
 
    <br>
@@ -269,4 +272,4 @@ You can use it in your image processing apps, quickly make collages with it, app
       </tr>
       
 
-   </table>
+   </table> -->

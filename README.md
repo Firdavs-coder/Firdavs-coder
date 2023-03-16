@@ -202,7 +202,7 @@
 <hr>
 
 
-<!-- 
+
 <!-- MY SCRAPED WEBSITES -->
 
    <br>
@@ -272,4 +272,4 @@ You can use it in your image processing apps, quickly make collages with it, app
       </tr>
       
 
-   </table> -->
+   </table> 

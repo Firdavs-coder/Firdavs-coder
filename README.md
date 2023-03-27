@@ -6,6 +6,7 @@
          <li>Frontend: html, css, bootstrap, js, jquery but I am not good at web frontend basicly at js.</li>
          <li>Backend: python, django, django rest framework. It is my primary programming work</li>
          <li>Flutter: I also create mobile apps for both android and ios in flutter. Flutter is a cross platform which provides many opportunities with main one codebase. </li>
+         <a href="https://play.google.com/store/apps/details?id=com.uzai.tts_uz_app">TTS Uzbek - Audio Ovoz</a>
       </ul>
       <br>
    </i>

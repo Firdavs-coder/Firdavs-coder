@@ -1,4 +1,4 @@
-<a href="https://github.com/Firdavs-coder/Portfolio">Portfolio</a> 
+<a href="https://mrfirdavs.uz/">Portfolio</a> 
 
 # About Me
 

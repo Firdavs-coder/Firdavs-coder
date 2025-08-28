@@ -10,10 +10,11 @@ I like creating projects that combine **AI and practical applications** – for 
 
 | | | |
 |---|---|---|
-| [AI Background Remover](#ai-background-remover) | [AI Picture Upscaler](#ai-picture-upscaler) | [AI Watermark Remover](#ai-watermark-remover) |
-| [Uzbek & Multiple Language Subtitler using AI](#uzbek--multiple-language-subtitler-using-ai) | [AI Content Detector](#ai-content-detector) | [AI Object Remover](#ai-object-remover) |
-| [AI Picture Colorizer](#ai-picture-colorizer) | [FaceSwap](#faceswap) | [AI Calorie Tracker](#ai-calorie-tracker) |
-| [Humanizer](#humanizer) |  |  |
+| [AI Background Remover](#ai-background-remover)<br>Remove image backgrounds instantly | [AI Picture Upscaler](#ai-picture-upscaler)<br>Enhance image resolution with AI | [AI Watermark Remover](#ai-watermark-remover)<br>Erase watermarks from photos |
+| [Uzbek & Multiple Language Subtitler using AI](#uzbek--multiple-language-subtitler-using-ai)<br>Generate subtitles in multiple languages | [AI Content Detector](#ai-content-detector)<br>Check if text is AI-generated or human | [AI Object Remover](#ai-object-remover)<br>Remove unwanted objects from images |
+| [AI Picture Colorizer](#ai-picture-colorizer)<br>Turn black & white photos into color | [FaceSwap](#faceswap)<br>Swap faces in images easily | [AI Calorie Tracker](#ai-calorie-tracker)<br>Estimate calories from meal photos |
+| [Humanizer](#humanizer)<br>Make AI-generated text sound human |  |  |
+
 
 ---
 

@@ -44,7 +44,7 @@ I like creating projects that combine **AI and practical applications** – for 
 
 | Original | Result | Original | Result |
 | --- | --- | --- | --- |
-| ![Original](https://i.ibb.co/rRD8MPFL/photo-2025-04-26-11-03-47.jpg) | ![Result](https://i.ibb.co/nN1frMCC/568e7ca7-5c10-434e-8f81-f7e1286e0575.png) | ![Original](https://i.ibb.co/Ld2DKrwz/photo-2025-04-26-11-16-30.jpg) | ![Result](https://i.ibb.co/3yvHtjJv/56acbf26-41b8-45e3-a73c-a0fe4efb685e.png) |
+| ![Original](https://github.com/user-attachments/assets/12a1c6e5-61b3-4d0e-afba-e5ae9f5f903a) | ![Result](https://github.com/user-attachments/assets/30e5c7d6-4be3-47fa-9e58-40b8873f8334) | ![Original](https://github.com/user-attachments/assets/f6fd2045-2680-4f57-9f2b-318216af9d72) | ![Result](https://github.com/user-attachments/assets/19fc6e85-672a-46eb-9adf-8827d45ea64c) |
 
 ## [AI Content Detector](https://rapidapi.com/firdavscoder1/api/ai-content-detector11)
 

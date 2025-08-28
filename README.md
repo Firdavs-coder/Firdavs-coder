@@ -9,7 +9,7 @@ I like creating projects that combine **AI and practical applications** – for 
 
 # My Projects
 
-## AI Background Remover
+## [AI Background Remover](https://rapidapi.com/firdavscoder1/api/ai-background-remover)
 
 | Original | Result 1 | Result 2 | Result 3 | Result 4 | Result 5 |
 |----------|----------|----------|----------|----------|----------|
@@ -22,3 +22,9 @@ I like creating projects that combine **AI and practical applications** – for 
 | Original | Result 1 | Result 2 |
 |----------|----------|----------|
 | ![Original](https://github.com/Firdavs-coder/remove-bg/raw/main/outputs/video1.gif) | ![Result](https://github.com/Firdavs-coder/remove-bg/raw/main/outputs/video2.gif) | ![Result](https://github.com/Firdavs-coder/remove-bg/raw/main/outputs/video3.gif) |
+
+## AI Picture Upscaler
+
+| Original | Result | Original | Result |
+| --- | --- | --- | --- |
+| ![Original](https://i.ibb.co/rRD8MPFL/photo-2025-04-26-11-03-47.jpg) | ![Result](https://i.ibb.co/nN1frMCC/568e7ca7-5c10-434e-8f81-f7e1286e0575.png) | ![Original](https://i.ibb.co/Ld2DKrwz/photo-2025-04-26-11-16-30.jpg) | ![Result](https://i.ibb.co/3yvHtjJv/56acbf26-41b8-45e3-a73c-a0fe4efb685e.png) |

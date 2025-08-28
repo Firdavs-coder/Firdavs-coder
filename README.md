@@ -39,3 +39,17 @@ I like creating projects that combine **AI and practical applications** – for 
 | **Glimpse Standard** | Balanced multilingual detection supporting 26 languages. Uses efficient models to provide good accuracy across languages. Less resource-intensive than Premium while maintaining solid detection capabilities. Suitable for routine multilingual content verification. |
 
 ![photo_2025-08-28_19-33-43](https://github.com/user-attachments/assets/68d88d8c-ee8c-46bd-9d29-5cb951da5324)
+
+## [AI Watermark Remover](https://rapidapi.com/firdavscoder1/api/ai-watermark-remover)
+
+| Original Image | Result Image | Original Image | Result Image |
+|:--------------:|:------------:|:--------------:|:------------:|
+| ![Original](https://github.com/user-attachments/assets/f9c0b63d-e19c-4e07-b3a7-2b120e94de99) | ![Result](https://github.com/user-attachments/assets/5b1fbda8-b47f-4cc0-acba-8ee75d8a2af9) | ![Original](https://github.com/user-attachments/assets/bc0c33a0-eb3e-469f-ab82-94893234dbca) | ![Result](https://github.com/user-attachments/assets/d7d01392-ff52-470c-adca-f5325a605053) |
+
+## [AI Object Remover](https://rapidapi.com/firdavscoder1/api/object-remover)
+
+| Original|   Mask |Result |
+| ------ | ------ | ------ |
+| ![image](https://i.ibb.co/wMRsybC/62f2ab4ebeacab3383b5e.png) | ![image](https://i.ibb.co/qrXndd3/2e5cd06873e4144d3abbf.png) | ![image](https://i.ibb.co/RCtRPjJ/download.jpg) |
+| ![image](https://i.ibb.co/5nfcm1P/dracaena-cinnabari.jpg) | ![image](https://i.ibb.co/NpLT9T8/result.jpg) | ![image](https://i.ibb.co/dsZfNvb/download.jpg) |
+| ![image](https://i.ibb.co/KyJ5CWy/original.png) | ![image](https://i.ibb.co/LCww7LY/result.jpg) | ![image](https://i.ibb.co/GPx7xJg/download.jpg) |

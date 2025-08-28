@@ -6,20 +6,14 @@ I enjoy working with **Python, Java, and FastAPI**, and I’m interested in **AI
 I like creating projects that combine **AI and practical applications** – for example, APIs for image processing, background removal, or summarizing audio. I also enjoy learning about **operating systems, data structures, and algorithms** to strengthen my computer science foundation.  
 
 ---
-
 ## Table of Contents
-- [Getting Started](#getting-started)
-- [My Projects](#my-projects)
-  - [AI Background Remover](#ai-background-remover)
-  - [Uzbek & Multiple Language Subtitler using AI](#uzbek--multiple-language-subtitler-using-ai)
-  - [AI Picture Upscaler](#ai-picture-upscaler)
-  - [AI Content Detector](#ai-content-detector)
-  - [AI Watermark Remover](#ai-watermark-remover)
-  - [AI Object Remover](#ai-object-remover)
-  - [AI Picture Colorizer](#ai-picture-colorizer)
-  - [FaceSwap](#faceswap)
-  - [AI Calorie Tracker](#ai-calorie-tracker)
-  - [Humanizer](#humanizer)
+
+| | | |
+|---|---|---|
+| [AI Background Remover](#ai-background-remover) | [AI Picture Upscaler](#ai-picture-upscaler) | [AI Watermark Remover](#ai-watermark-remover) |
+| [Uzbek & Multiple Language Subtitler using AI](#uzbek--multiple-language-subtitler-using-ai) | [AI Content Detector](#ai-content-detector) | [AI Object Remover](#ai-object-remover) |
+| [AI Picture Colorizer](#ai-picture-colorizer) | [FaceSwap](#faceswap) | [AI Calorie Tracker](#ai-calorie-tracker) |
+| [Humanizer](#humanizer) |  |  |
 
 ---
 

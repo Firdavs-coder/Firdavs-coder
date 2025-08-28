@@ -62,10 +62,10 @@ I like creating projects that combine **AI and practical applications** – for 
 | ![image](https://i.ibb.co/JCMtctm/360-F-236663023-r-Wz-CTBGv3-OI4-Te-Usb6-Mqi-Zz-Fgn-ROq5-YX.jpg) | ![image](https://i.ibb.co/TW24whF/download.jpg) | ![image](https://i.ibb.co/rZyd119/man-8554081-640.webp) | ![image](https://i.ibb.co/MZs8S0t/download.jpg) |
 
 ## FaceSwap
-|  Original | Result |  Original |
-| ------ | ------ | ------ |
-| ![image](https://telegra.ph/file/8df15175c95a5b6793840.jpg) | ![image](https://i.ibb.co/4RTP5gB/Faceswap-example-api-market.png) | ![image](https://i.ibb.co/xLNsFgb/Faceswap-api-example.png)
+![8df15175c95a5b6793840](https://github.com/user-attachments/assets/97fa6b9d-d801-47a0-9e68-a3a74498bd9b)
 
-|  Original | Result |
-| ------ | ------ |
-| ![image](https://i.ibb.co/PrThzNX/image.jpg) | ![image](https://i.ibb.co/L0jzsgS/image2.jpg) |
+## [AI Calorie Tracker](https://rapidapi.com/firdavscoder1/api/ai-calorie-tracker)
+| Analyze message | Input image |
+| --- | --- |
+| High protein meal with moderate calories and low carbs. | ![Grilled-Chicken-Overhead-500x500](https://github.com/user-attachments/assets/981a82b0-3911-4538-99c2-e64674c3026a) |
+

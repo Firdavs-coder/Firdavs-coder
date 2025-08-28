@@ -60,3 +60,12 @@ I like creating projects that combine **AI and practical applications** – for 
 | ------ | ------ | ------ | ------ |
 | ![image](https://i.ibb.co/12vJ841/01-landscape-photograph-in-black-and-white-6466-900-600-100.webp) | ![image](https://i.ibb.co/nw9fqHN/download.jpg) | ![image](https://i.ibb.co/VMhtcvL/BW-using-curves.webp) | ![image](https://i.ibb.co/GTkYFwp/download.jpg) |
 | ![image](https://i.ibb.co/JCMtctm/360-F-236663023-r-Wz-CTBGv3-OI4-Te-Usb6-Mqi-Zz-Fgn-ROq5-YX.jpg) | ![image](https://i.ibb.co/TW24whF/download.jpg) | ![image](https://i.ibb.co/rZyd119/man-8554081-640.webp) | ![image](https://i.ibb.co/MZs8S0t/download.jpg) |
+
+## FaceSwap
+|  Original | Result |  Original |
+| ------ | ------ | ------ |
+| ![image](https://telegra.ph/file/8df15175c95a5b6793840.jpg) | ![image](https://i.ibb.co/4RTP5gB/Faceswap-example-api-market.png) | ![image](https://i.ibb.co/xLNsFgb/Faceswap-api-example.png)
+
+|  Original | Result |
+| ------ | ------ |
+| ![image](https://i.ibb.co/PrThzNX/image.jpg) | ![image](https://i.ibb.co/L0jzsgS/image2.jpg) |

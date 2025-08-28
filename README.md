@@ -23,8 +23,19 @@ I like creating projects that combine **AI and practical applications** – for 
 |----------|----------|----------|
 | ![Original](https://github.com/Firdavs-coder/remove-bg/raw/main/outputs/video1.gif) | ![Result](https://github.com/Firdavs-coder/remove-bg/raw/main/outputs/video2.gif) | ![Result](https://github.com/Firdavs-coder/remove-bg/raw/main/outputs/video3.gif) |
 
-## AI Picture Upscaler
+## [AI Picture Upscaler](https://rapidapi.com/firdavscoder1/api/ai-picture-upscaler)
 
 | Original | Result | Original | Result |
 | --- | --- | --- | --- |
 | ![Original](https://i.ibb.co/rRD8MPFL/photo-2025-04-26-11-03-47.jpg) | ![Result](https://i.ibb.co/nN1frMCC/568e7ca7-5c10-434e-8f81-f7e1286e0575.png) | ![Original](https://i.ibb.co/Ld2DKrwz/photo-2025-04-26-11-16-30.jpg) | ![Result](https://i.ibb.co/3yvHtjJv/56acbf26-41b8-45e3-a73c-a0fe4efb685e.png) |
+
+## [AI Content Detector](https://rapidapi.com/firdavscoder1/api/ai-content-detector11)
+
+| Method                        | Description |
+|-------------------------------|-------------|
+| **Fast Detect Advanced**    | Uses larger parameter models (7B) for both sampling and scoring. Offers the highest accuracy among fast detection methods while maintaining good speed. Recommended for general-purpose detection when balance between accuracy and speed is needed. |
+| **Fast Detect Basic**    | Employs smaller parameter models (2.7B) for both sampling and scoring. Faster processing time but slightly lower accuracy. Good for quick initial assessments and situations where computational resources are limited. |
+| **Glimpse Premium** | Top-tier multilingual detection supporting 26 languages. Uses the most powerful models for scoring text across multiple languages. Highest accuracy but more computationally intensive. Best for critical content verification. |
+| **Glimpse Standard** | Balanced multilingual detection supporting 26 languages. Uses efficient models to provide good accuracy across languages. Less resource-intensive than Premium while maintaining solid detection capabilities. Suitable for routine multilingual content verification. |
+
+![photo_2025-08-28_19-33-43](https://github.com/user-attachments/assets/68d88d8c-ee8c-46bd-9d29-5cb951da5324)

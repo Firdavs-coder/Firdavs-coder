@@ -57,6 +57,12 @@ I like creating projects that combine **AI and practical applications** – for 
 
 ![photo_2025-08-28_19-33-43](https://github.com/user-attachments/assets/68d88d8c-ee8c-46bd-9d29-5cb951da5324)
 
+| - | - | - | - |
+|--------------------|-------------|-----------|-----------|
+| ![photo_2025-09-22_17-15-09](https://github.com/user-attachments/assets/c0dcf86f-e5e7-4cbd-9b3c-ce552a6f144d)            | ![photo_2025-09-22_17-15-09 (2)](https://github.com/user-attachments/assets/9d6f008a-e3bf-4282-81fc-16b6e936d8e1) | ![photo_2025-09-22_17-15-09 (3)](https://github.com/user-attachments/assets/db037a4c-030c-4aaf-9271-6aba6613b8dc)          | ![photo_2025-09-22_17-15-09 (3)](https://github.com/user-attachments/assets/05aae349-f70f-4a5c-8a08-ef2a79a55fd5)          |
+
+<a href='https://play.google.com/store/apps/details?id=com.mrfirdavs.aidetectorapp'><img height=70 alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png'/></a>
+
 ## [AI Watermark Remover](https://rapidapi.com/firdavscoder1/api/ai-watermark-remover)
 
 | Original Image | Result Image | Original Image | Result Image |

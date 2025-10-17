@@ -13,7 +13,7 @@ I like creating projects that combine **AI and practical applications** – for 
 | [AI Image and Video Background Remover](#ai-background-remover)<br>Remove image and video backgrounds instantly | [AI Picture Upscaler and Face Restoration](#ai-picture-upscaler)<br>Enhance image resolution with AI | [AI Watermark Remover](#ai-watermark-remover)<br>Erase watermarks from photos |
 | [Uzbek & Multiple Language Subtitler using AI](#uzbek--multiple-language-subtitler-using-ai)<br>Generate subtitles in multiple languages | [AI Content Detector for 28 languages](#ai-content-detector)<br>Check if text is AI-generated or human for 28 languages | [AI Object Remover](#ai-object-remover)<br>Remove unwanted objects from images |
 | [AI Picture Colorizer](#ai-picture-colorizer)<br>Turn black & white photos into color | [Image and Video FaceSwap](#faceswap)<br>Swap faces in images and videos easily | [AI Calorie Tracker](#ai-calorie-tracker)<br>Estimate calories from meal photos |
-| [AI Content Humanizer](#humanizer)<br>Make AI-generated text sound human |  |  |
+| [AI Content Humanizer](#humanizer)<br>Make AI-generated text sound human | [Call Audio Processor](#call-audio-processor)<br>Processes hungarian call center audios with AI |  |
 
 
 ---
@@ -99,3 +99,7 @@ I like creating projects that combine **AI and practical applications** – for 
 | Preview | Preview |
 | --- | --- |
 | ![Preview](https://github.com/user-attachments/assets/5cdb4556-0892-4ff2-9311-cd7f4609ea45) | ![Preview](https://github.com/user-attachments/assets/bc2a28b5-a74b-41a3-9944-965310d41d28) |
+
+## Call Audio Processor
+https://github.com/user-attachments/assets/0c2c73ac-ce6b-48d5-b5da-18a94ae7332e
+

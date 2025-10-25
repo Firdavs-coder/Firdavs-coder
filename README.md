@@ -40,6 +40,10 @@ I like creating projects that combine **AI and practical applications** – for 
 | <video src="https://github.com/user-attachments/assets/450ca0e3-a28a-4575-844b-ea485780f04e"></video> | <video src="https://github.com/user-attachments/assets/4e1796c4-a5a2-4d41-86e6-7678a933d746"></video> | <video src="https://github.com/user-attachments/assets/a2643863-6667-4a73-ba0e-687706c42203"></video> | <video src="https://github.com/user-attachments/assets/a41c8200-c94a-49f1-bd3c-73456606cb43"></video> |
 | <video src="https://github.com/user-attachments/assets/7978ebbb-e7b1-48e2-90a7-5c03ee000836"></video> | <video src="https://github.com/user-attachments/assets/3316dc33-f829-4cf0-83fb-9979cecb2038"></video> | <video src="https://github.com/user-attachments/assets/a96ce56b-0072-4af7-a7fd-5cab3da89ea6"></video> | <video src="https://github.com/user-attachments/assets/b3498fc0-af0f-43c0-b14d-8c3ed2514e18"></video> |
 
+
+https://github.com/user-attachments/assets/80230d4c-9128-43ab-976b-0dd42e9d1727
+
+
 ## [AI Picture Upscaler](https://rapidapi.com/firdavscoder1/api/ai-picture-upscaler)
 
 | Original | Result | Original | Result |

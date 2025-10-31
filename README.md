@@ -13,7 +13,7 @@ I like creating projects that combine **AI and practical applications** – for 
 | [AI Image and Video Background Remover](#ai-background-remover)<br>Remove image and video backgrounds instantly | [AI Picture Upscaler and Face Restoration](#ai-picture-upscaler)<br>Enhance image resolution with AI | [AI Watermark Remover](#ai-watermark-remover)<br>Erase watermarks from photos |
 | [Uzbek & Multiple Language Subtitler using AI](#uzbek--multiple-language-subtitler-using-ai)<br>Generate subtitles in multiple languages | [AI Content Detector for 28 languages](#ai-content-detector)<br>Check if text is AI-generated or human for 28 languages | [AI Object Remover](#ai-object-remover)<br>Remove unwanted objects from images |
 | [AI Picture Colorizer](#ai-picture-colorizer)<br>Turn black & white photos into color | [Image and Video FaceSwap](#faceswap)<br>Swap faces in images and videos easily | [AI Calorie Tracker](#ai-calorie-tracker)<br>Estimate calories from meal photos |
-| [AI Content Humanizer](#humanizer)<br>Make AI-generated text sound human | [Call Audio Processor](#call-audio-processor)<br>Processes hungarian call center audios with AI |  |
+| [AI Content Humanizer](#humanizer)<br>Make AI-generated text sound human | [Call Audio Processor](#call-audio-processor)<br>Processes hungarian call center audios with AI | [GO Taxi App](#go-taxi-app)<br>GO Taxi App for multi regions in Uzbekistan |
 
 
 ---
@@ -107,3 +107,17 @@ https://github.com/user-attachments/assets/80230d4c-9128-43ab-976b-0dd42e9d1727
 ## Call Audio Processor
 https://github.com/user-attachments/assets/0c2c73ac-ce6b-48d5-b5da-18a94ae7332e
 
+## GO Taxi App
+### Go Taxi Client App
+| ![img4](https://github.com/user-attachments/assets/e375f6f8-85f9-420b-b96c-07c3a85aa519) | ![img1](https://github.com/user-attachments/assets/bea0e2b9-53ca-48ad-a7c3-a88a0dea6fc0) | ![img2](https://github.com/user-attachments/assets/997c27f0-d87b-42e0-9a8b-803e21d89e05) | ![img3](https://github.com/user-attachments/assets/21cf9560-a2f4-4618-bd88-0a5be2ed9bad) |
+|---|---|---|---|
+
+### GO Taxi Driver
+| ![img1](https://github.com/user-attachments/assets/072f8ab7-b636-4715-ad09-c1667d6d1862) | ![img2](https://github.com/user-attachments/assets/760b7fd1-6e28-45ba-88b8-ed6b68be80be) | ![img3](https://github.com/user-attachments/assets/cbd1d0cd-f816-4b60-8c1a-f376670504e0) | ![img4](https://github.com/user-attachments/assets/eda31f25-0b3a-4703-9f08-c27016710800) |
+|---|---|---|---|
+| ![img5](https://github.com/user-attachments/assets/3a825f99-7517-45ee-a867-ff62e60e93bc) | ![img6](https://github.com/user-attachments/assets/1a7926e4-2d8d-4bcc-8bd1-f05d5c7eb4b5) | ![img7](https://github.com/user-attachments/assets/b842706c-a13f-4eb6-b348-5778ac746d3e) |  |
+
+### GO Taxi Admin
+| ![img1](https://github.com/user-attachments/assets/8bc21c7e-b431-4654-9fb2-5eabdeb35863) | ![img2](https://github.com/user-attachments/assets/fdd3671a-6a0e-43cd-b030-dffae31a4d08) | ![img3](https://github.com/user-attachments/assets/530885de-a6a8-4175-8777-004da887aae6) | ![img4](https://github.com/user-attachments/assets/2e93ad20-5cca-4f7e-b697-5237e175480a) |
+|---|---|---|---|
+| ![img5](https://github.com/user-attachments/assets/7cb51a06-8baf-40f7-bbb3-338aa042f91f) | ![img6](https://github.com/user-attachments/assets/f7fe2092-975a-4581-bbde-919d1dc68a19) | ![img7](https://github.com/user-attachments/assets/099fa5b8-05dc-4200-be39-3071cbe04e26) | ![img8](https://github.com/user-attachments/assets/be676b3d-2e1f-487e-aba1-9818c0b70c3b) |

@@ -94,10 +94,6 @@ https://github.com/user-attachments/assets/80230d4c-9128-43ab-976b-0dd42e9d1727
 
 ## [AI Calorie Tracker](https://rapidapi.com/firdavscoder1/api/ai-calorie-tracker)
 
-| Analyze message | Input image |
-| --- | --- |
-| High protein meal with moderate calories and low carbs. | ![Grilled-Chicken-Overhead-500x500](https://github.com/user-attachments/assets/981a82b0-3911-4538-99c2-e64674c3026a) |
-
 | Image 1 | Image 2 | Image 3 | Image 4 | Image 5 |
 |:---:|:---:|:---:|:---:|:---:|
 | ![1](https://github.com/user-attachments/assets/f79c4ccd-7166-46f5-8a9b-fbb24d1454e9) | ![2](https://github.com/user-attachments/assets/584d48c2-462f-4fd6-9061-09ffe8fdff5a) | ![3](https://github.com/user-attachments/assets/cb275105-6f49-4177-bd0d-7272de06622b) | ![4](https://github.com/user-attachments/assets/e23d326e-1255-4ea7-b7ba-4bdccc45c582) | ![5](https://github.com/user-attachments/assets/84366069-d7ba-4f2d-8c0c-3394eb910c83) |

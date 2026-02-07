@@ -13,7 +13,7 @@ I like creating projects that combine **AI and practical applications** – for 
 | [AI Image and Video Background Remover](#ai-background-remover)<br>Remove image and video backgrounds instantly | [AI Picture Upscaler and Face Restoration](#ai-picture-upscaler)<br>Enhance image resolution with AI | [AI Watermark Remover](#ai-watermark-remover)<br>Erase watermarks from photos |
 | [Uzbek & Multiple Language Subtitler using AI](#uzbek--multiple-language-subtitler-using-ai)<br>Generate subtitles in multiple languages | [AI Content Detector for 28 languages](#ai-content-detector)<br>Check if text is AI-generated or human for 28 languages | [AI Object Remover](#ai-object-remover)<br>Remove unwanted objects from images |
 | [AI Picture Colorizer](#ai-picture-colorizer)<br>Turn black & white photos into color | [Image and Video FaceSwap](#faceswap)<br>Swap faces in images and videos easily | [AI Calorie Tracker](#ai-calorie-tracker)<br>Estimate calories from meal photos |
-| [AI Content Humanizer](#humanizer)<br>Make AI-generated text sound human | [Call Audio Processor](#call-audio-processor)<br>Processes hungarian call center audios with AI | [GO Taxi App](#go-taxi-app)<br>GO Taxi App for multi regions in Uzbekistan |
+| [AI Content Humanizer](#humanizer)<br>Make AI-generated text sound human | [Call Audio Processor](#call-audio-processor)<br>Processes hungarian call center audios with AI | [GO Taxi App](#go-taxi-app)<br>GO Taxi App for multi regions in Uzbekistan | [FlowHabit](#flowhabit)<br>FlowHabit - Habit Tracker App |
 
 
 ---
@@ -122,3 +122,8 @@ https://github.com/user-attachments/assets/0c2c73ac-ce6b-48d5-b5da-18a94ae7332e
 | ![img1](https://github.com/user-attachments/assets/8bc21c7e-b431-4654-9fb2-5eabdeb35863) | ![img2](https://github.com/user-attachments/assets/fdd3671a-6a0e-43cd-b030-dffae31a4d08) | ![img3](https://github.com/user-attachments/assets/530885de-a6a8-4175-8777-004da887aae6) | ![img4](https://github.com/user-attachments/assets/2e93ad20-5cca-4f7e-b697-5237e175480a) |
 |---|---|---|---|
 | ![img5](https://github.com/user-attachments/assets/7cb51a06-8baf-40f7-bbb3-338aa042f91f) | ![img6](https://github.com/user-attachments/assets/f7fe2092-975a-4581-bbde-919d1dc68a19) | ![img7](https://github.com/user-attachments/assets/099fa5b8-05dc-4200-be39-3071cbe04e26) | ![img8](https://github.com/user-attachments/assets/be676b3d-2e1f-487e-aba1-9818c0b70c3b) |
+
+### FlowHabit
+| ![img1](https://github.com/user-attachments/assets/53af482b-8205-452e-be4e-fe1e3dab70bf) | ![img2](https://github.com/user-attachments/assets/0113b92f-ba84-4d72-8542-8fb4bde75de9) | ![img3](https://github.com/user-attachments/assets/43972e6f-fa7a-4a1c-a2fe-48c66bca3eac) | ![img4](https://github.com/user-attachments/assets/b8c63047-5020-4eda-b2dd-d5ae6a1095f2) |
+|---|---|---|---|
+| ![img5](https://github.com/user-attachments/assets/2509f316-8f7f-4409-b0c0-615b74453e05) | ![img6](https://github.com/user-attachments/assets/afa02bfe-1f0a-46ea-b3f4-fa2507eef245) | ![img7](https://github.com/user-attachments/assets/bbae1523-bea2-40e8-b3d0-870a2febc173) | ![img8](https://github.com/user-attachments/assets/2a188756-46e0-4e93-b336-0768a7856238) |

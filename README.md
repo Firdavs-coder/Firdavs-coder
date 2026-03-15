@@ -132,6 +132,6 @@ https://github.com/user-attachments/assets/0c2c73ac-ce6b-48d5-b5da-18a94ae7332e
 ## [ERDAuto](https://erdauto.dev/)
 | Preview | Preview | Preview |
 |---------|---------|---------|
-| ![img1](https://github.com/user-attachments/assets/b8c63047-5020-4eda-b2dd-d5ae6a1095f2) | <video src="https://github.com/user-attachments/assets/4e1796c4-a5a2-4d41-86e6-7678a933d746"></video> | <video src="https://github.com/user-attachments/assets/a2643863-6667-4a73-ba0e-687706c42203"></video> |
+| ![img1]() | <video src=""></video> | <video src=""></video> |
 
 

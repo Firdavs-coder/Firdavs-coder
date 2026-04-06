@@ -14,7 +14,7 @@ I like creating projects that combine **AI and practical applications** – for 
 | [Uzbek & Multiple Language Subtitler using AI](#uzbek--multiple-language-subtitler-using-ai)<br>Generate subtitles in multiple languages | [AI Content Detector for 28 languages](#ai-content-detector)<br>Check if text is AI-generated or human for 28 languages | [AI Object Remover](#ai-object-remover)<br>Remove unwanted objects from images |
 | [AI Picture Colorizer](#ai-picture-colorizer)<br>Turn black & white photos into color | [Image and Video FaceSwap](#faceswap)<br>Swap faces in images and videos easily | [AI Calorie Tracker](#ai-calorie-tracker)<br>Estimate calories from meal photos |
 | [AI Content Humanizer](#humanizer)<br>Make AI-generated text sound human | [Call Audio Processor](#call-audio-processor)<br>Processes hungarian call center audios with AI | [GO Taxi App](#go-taxi-app)<br>GO Taxi App for multi regions in Uzbekistan |
-|[FlowHabit](#flowhabit)<br>FlowHabit - Habit Tracker App | [ERDAuto](#erdauto)<br>ERDAuto - AI Database Drawer |
+|[FlowHabit](#flowhabit)<br>FlowHabit - Habit Tracker App | [ERDAuto](#erdauto)<br>ERDAuto - AI Database Drawer | [Voice clone](#voice-clone)<br>Clone Voice over 600+ languages |
 
 
 ---
@@ -134,4 +134,6 @@ https://github.com/user-attachments/assets/0c2c73ac-ce6b-48d5-b5da-18a94ae7332e
 |---------|---------|---------|
 | ![img1](https://github.com/user-attachments/assets/a6ebea20-1749-4809-866c-c23490fe2f16) | <video src="https://github.com/user-attachments/assets/99381bba-5476-41e8-aaf3-8b0c6aab5179"></video> | <video src="https://github.com/user-attachments/assets/9fa1c55f-09a4-4071-bfd9-3147df71ed7a"></video> |
 
+## Voice Clone
+https://github.com/user-attachments/assets/fbbb1485-f191-4abf-ba02-3885b5cef751
 
